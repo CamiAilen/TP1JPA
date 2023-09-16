@@ -1,8 +1,7 @@
 # TP1JPA
 
-Nombre:
-Apellido:
-Legajo: 
+Nombre: Camila Ailen  
+Apellido: Mañani  
+Legajo: 48905  
 
-Título:
-Trabajo Práctico nro 1: Persistencia en JPA
+Título: Trabajo Práctico nro 1: Persistencia en JPA  
